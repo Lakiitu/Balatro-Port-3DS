@@ -7,3 +7,4 @@ How to install?
 4. Go to your cias folder
 5. Click on the Gbalatro file and click install
 6. Quit FBI and go to your home screen and play!
+https://github.com/rModhomebrew/Balatro-Port-3DS-/releases/tag/3DS
