@@ -4,7 +4,8 @@ Q&A
 Q:Why isn't two screen?
 A:Because Gbalatro was made for the GBA system familyand ported to 3DS.
 --------------------------------
-3DS Balatro Port By arc.ju on discord.
+3DS Balatro Port By rModhomebrew.
+If there are any issue please report in issue channel or DM arc.ju on Discord.
 
 How to install? 
 1. Download file from Release
